@@ -8,6 +8,17 @@ Below is a snapshot of the live project:
 
 ![Project Preview](image/project.png)
 
+## 🚀 How to Run
+
+Since this is a pure HTML project, you don't need any complex setup. Just follow these simple steps:
+
+1.  Clone or download this repository to your local machine.
+2.  Navigate to the project folder.
+3.  Find the `.html` file (e.g., `index.html`).
+4.  Double-click the file, and it will automatically open in your default web browser.
+
+That's it! You can now view the project.
+
 ## 💻 Technology Used
 
 This project is a static page built purely with a single technology:
